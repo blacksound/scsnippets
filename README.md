@@ -1,0 +1,2 @@
+# scsnippets
+My SuperCollider snippets
